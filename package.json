@@ -1,6 +1,6 @@
 {
   "name": "vite_react_shadcn_ts",
-  "homepage": "https://mamathesh-arya.github.io/dev-portfolio/",
+  "homepage":"https://mamathesh-arya.github.io/dev-portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
